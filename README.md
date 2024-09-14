@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Avishka Srimal</h1>
 <h3 align="center">Undergraduate at University of Bedfordshire UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkasrimal01&label=Profile%20views&color=0e75b6&style=flat" alt="avishkasrimal01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkasrimal01" alt="avishkasrimal01" /></a> </p>
-
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px>
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
@@ -20,6 +16,10 @@
 - 🏢 Working with **Lakdew Technologies** & **Mettabyte**
 
 - 💣 Founder of **AS Design Studio**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkasrimal01&label=Profile%20views&color=0e75b6&style=flat" alt="avishkasrimal01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkasrimal01" alt="avishkasrimal01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
