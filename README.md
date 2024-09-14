@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishkasrimal01" alt="avishkasrimal01" /></a> </p>
 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px>
+
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
 - 💬 Ask me about **Arduino and AI Robotics**
