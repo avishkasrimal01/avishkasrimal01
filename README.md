@@ -19,7 +19,7 @@
 
 - 💣 Founder of **AS Design Studio**
 
-<img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="pro" height="100" width="100"/>
+<img src= "https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="pro" align="center" height="300" width="300"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
