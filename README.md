@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/avishka-srimal-0411251b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avishka Srimal" height="30" width="40" /></a>
 <a href="https://t.co/BKU3WulpsH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Avishka Srimal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/______x_.avi._x_/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="______x_.avi._x_" height="30" width="40" /></a>
-<a href="https://youtube.com/@avishkasrimal399?si=EpwTWXlIE_xo7NSL" target="blank"><img align="center" src="file:///C:/Users/User/Downloads/social-icons-master/social-icons-master/SVG/Color/Youtube.svg" alt="AVISHKA SRIMAL" height="30" width="40" /></a>
+<a href="https://youtube.com/@avishkasrimal399?si=EpwTWXlIE_xo7NSL" target="blank"><img align="center" src="file://C:/Users/User/Downloads/social-icons-master/social-icons-master/SVG/Color/Youtube.svg" alt="AVISHKA SRIMAL" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkasrimal01&show_icons=true&locale=en" alt="avishkasrimal01" /></p>
 
-<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5?raw=true" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5?raw=true" width = 280px></picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishkasrimal01&" alt="avishkasrimal01" /></p>
 
