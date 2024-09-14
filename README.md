@@ -7,7 +7,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 130px>
 
-<picture> <img align="right" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877?raw=true" width = 220px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif?raw=true" width = 220px></picture>
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
