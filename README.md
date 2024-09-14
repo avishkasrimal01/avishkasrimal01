@@ -1,8 +1,5 @@
 ![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
 
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)
-
-
 <h1 align="center">Hi 👋, I'm Avishka Srimal</h1>
 <h3 align="center">Undergraduate at University of Bedfordshire UK</h3>
 
@@ -15,6 +12,14 @@
 - 💬 Ask me about **Arduino and AI Robotics**
 
 - 📫 How to reach me **avishka@lakdew.lk**
+
+- 😃 Call me as **Roba**
+
+- 🏢 Working with **Lakdew Technologies** & **Mettabyte**
+
+- 💣 Founder of **AS Design Studio**
+
+<img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="pro" height="100" width="100"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
