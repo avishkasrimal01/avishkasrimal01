@@ -7,6 +7,9 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
+
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
 - 💬 Ask me about **Arduino and AI Robotics**
