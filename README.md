@@ -1,5 +1,5 @@
 ![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
-![MasterHead](https://pin.it/7tMq8V4qv) 
+![MasterHead]([https://pin.it/7tMq8V4qv](https://i.pinimg.com/736x/95/e5/e1/95e5e1e21398e7ff7585bda334f535e9.jpg)) 
 
 
 
