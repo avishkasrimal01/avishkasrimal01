@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avishka@lakdew.lk**
 
-- Check my <a href="https://avishkasrimal01.github.io/My-Portfolio/">Portfolio</a>
+- 🔗 Check my <a href="https://avishkasrimal01.github.io/My-Portfolio/">Portfolio</a>
 
 - 😃 Call me as **Roba**
 
