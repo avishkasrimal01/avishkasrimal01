@@ -19,8 +19,6 @@
 
 - 💣 Founder of **AS Design Studio**
 
-<img src= "https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="pro" align="center" height="300" width="300"/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/avishka_srimal1" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="avishka_srimal1" height="30" width="40" /></a>
@@ -37,4 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkasrimal01&show_icons=true&locale=en" alt="avishkasrimal01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishkasrimal01&" alt="avishkasrimal01" /></p>
+
+<img src= "https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt="pro" height="300" width="300"/>
 
