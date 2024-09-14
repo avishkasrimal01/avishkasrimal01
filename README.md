@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishkasrimal01&show_icons=true&locale=en" alt="avishkasrimal01" /></p>
 
-<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5?raw=true" width = 220px></picture>
+<picture> <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5?raw=true" width = 300px></picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishkasrimal01&" alt="avishkasrimal01" /></p>
 
