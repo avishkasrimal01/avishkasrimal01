@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/avishka-srimal-0411251b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avishka Srimal" height="30" width="40" /></a>
 <a href="https://t.co/BKU3WulpsH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Avishka Srimal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/______x_.avi._x_/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="______x_.avi._x_" height="30" width="40" /></a>
-<a href="https://github.com/avishkasrimal01/avishkasrimal01/blob/38cb076b4a04396df213f51f26c223ab28385c49/Assets/Youtube.svg" target="blank"><img align="center" src="https://github.com/avishkasrimal01/avishkasrimal01/blob/main/Youtube.svg" alt="AVISHKA SRIMAL" height="30" width="40" /></a>
+<a href="[https://github.com/avishkasrimal01/avishkasrimal01/blob/38cb076b4a04396df213f51f26c223ab28385c49/Assets/Youtube.svg](https://youtube.com/@avishkasrimal399?si=zmx-WpswU4OInyZP)" target="blank"><img align="center" src="https://github.com/avishkasrimal01/avishkasrimal01/blob/main/Youtube.svg" alt="AVISHKA SRIMAL" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
